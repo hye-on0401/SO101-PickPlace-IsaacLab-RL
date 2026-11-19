@@ -4,6 +4,7 @@ This repository implements a custom reinforcement learning environment for the
 SO-101 robot arm using NVIDIA Isaac Lab and RSL-RL.
 
 A PPO-based policy is trained to complete the following sequence:
+
 **Reach → Grasp → Lift → Transport → Lower → Release → Return Home**
 
 The current policy uses state-based observations and has successfully completed
