@@ -44,7 +44,7 @@ the full pick-and-place task in simulation.
 - Action space: 5 arm joints and 1 gripper joint
 
 ## 🎥 Demo
-<video src="https://github.com/user-attachments/assets/783bc93d-64ba-467a-9a84-a4bc9f18c40e" controls width="100%"></video>
+https://github.com/user-attachments/assets/783bc93d-64ba-467a-9a84-a4bc9f18c40e
 
 ## Reward
 **Reach → Lift → Transport → Lower → Release → Return Homepose**
