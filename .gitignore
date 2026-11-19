@@ -1,0 +1,44 @@
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+*.egg-info/
+build/
+dist/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
+.DS_Store
+
+# Training outputs and datasets
+outputs/
+output/
+datasets/
+data/
+checkpoints/
+wandb/
+runs/
+
+# Large model files
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# Isaac Sim cache/generated files
+cache/
+logs/
