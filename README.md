@@ -1,4 +1,4 @@
-# SO-101 Pick and Place with Isaac Lab
+# SO-101 Pick and Place with Isaac Lab(RL)
 ## Introduction
 This repository implements a custom reinforcement learning environment for the
 SO-101 robot arm using NVIDIA Isaac Lab and RSL-RL.
